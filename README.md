@@ -1,5 +1,8 @@
 #  Юрий Бандура  
-### Python-разработчик  
+### Python-разработчик    <a href="https://github.com/GreenBandYt" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GreenBandYt-Зелёный_код_жизни-32CD32?style=for-the-badge&logo=leaflet&logoColor=white">
+  </a>
+  &nbsp;&nbsp;
 
 ---
 
